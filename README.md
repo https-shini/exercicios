@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## ☆ Projeto
 
 <p>
-Este projeto tem um código HTML que cria uma página de seleção de exercícios, contendo nove botões que levam a diferentes páginas de exercícios.<br>
+Este projeto tem o intuito de treinar um pouco a lingaugem de programação JavaScript. Para o conjunto de exercícios o código HTML que cria uma página de inicio que contém a seleção de exercícios, no toal são nove botões que levam a diferentes páginas de exercícios.<br>
 
 - O <b>exercício número 1</b> é uma página HTML que contém um script em JavaScript que solicita ao usuário para digitar o valor de quando ele recebeu e o valor do salário mínimo. O script então divide o valor recebido pelo valor do salário mínimo e arredonda o resultado para o número inteiro, em seguida, ele exibe a frase "Você ganhou aproximadamente X salário(s) mínimo(s)", em que X é o resultado da divisão.
 
