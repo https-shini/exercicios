@@ -46,8 +46,7 @@ Este projeto tem o intuito de treinar um pouco a lingaugem de programação Java
 </p>
 
 ## ☆ Layout
-
-Você pode visualizar o layout do projeto através do video abaixo.<br>
+Você pode visualizar o layout do projeto e como ele funciona através do video abaixo.<br>
 
 https://user-images.githubusercontent.com/100307080/223026912-73dc2529-08d9-4fea-a211-16103f7e90b1.mp4
 
